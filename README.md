@@ -1,6 +1,6 @@
 # YOLO–LiDAR 융합 전차 자동 조준 및 자율주행 시스템
 
-![Uploading image.png…]()
+<img width="1277" height="604" alt="스크린샷 2025-07-23 111847" src="https://github.com/user-attachments/assets/3a8081f9-2346-4796-a31f-d7cc957fecbe" />
 
 ### 프로젝트 개요 : 목적
 인공지능 기술 발전에 따라 방산 분야에서도 자율 전투 연구가 활발하게 진행되고 있다. 

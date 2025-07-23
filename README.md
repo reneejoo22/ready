@@ -41,3 +41,6 @@ https://github.com/sharesugi/ready
 ### 시현영상
 
 https://www.youtube.com/watch?v=7TnWjvFCMAo
+
+### 논문_포스터 형식
+- YOLO–LiDAR 융합 전차 자동 조준 및 자율주행 시스템

@@ -52,6 +52,6 @@ https://github.com/sharesugi/ready
 https://www.youtube.com/watch?v=7TnWjvFCMAo
 
 ### 논문_포스터 형식
-- YOLO–LiDAR 융합 전차 자동 조준 및 자율주행 시스템
-[_YOLO–LiDAR 융합 전차 자동 조준, 사격 및 자율주행 시스템.pdf](https://github.com/user-attachments/files/21378104/_YOLO.LiDAR.pdf)
+- YOLO–LiDAR 융합 전차 자동 조준 및 자율주행 시스템  
+[_YOLO–LiDAR 융합 전차 자동 조준, 사격 및 자율주행 시스템.pdf](https://github.com/user-attachments/files/21378104/_YOLO.LiDAR.pdf)  
 - 한국전자파 하계학술대회 논문 발표 승인

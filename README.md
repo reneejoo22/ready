@@ -1,4 +1,4 @@
-# YOLO–LiDAR 융합 전차 자동 조준 및 자율주행 시스템
+# Slam Lidar 활용 전차 자율주행 및 AI 모델 활용 자율조준 및 사격 통합 시스템
 
 <img width="1277" height="604" alt="스크린샷 2025-07-23 111847" src="https://github.com/user-attachments/assets/3a8081f9-2346-4796-a31f-d7cc957fecbe" />
 
